@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Hugo Theme Stack Starter</title>
-        <link>https://blog.earth87human.com/blog/categories/</link>
+        <link>https://earth87human.github.io/blog/categories/</link>
         <description>Recent content in Categories on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.earth87human.com/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>syntax</title>
-        <link>https://blog.earth87human.com/blog/categories/syntax/</link>
+        <link>https://earth87human.github.io/blog/categories/syntax/</link>
         <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.earth87human.com/blog/categories/syntax/</guid>
+        <guid>https://earth87human.github.io/blog/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>themes</title>
-        <link>https://blog.earth87human.com/blog/categories/themes/</link>
+        <link>https://earth87human.github.io/blog/categories/themes/</link>
         <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.earth87human.com/blog/categories/themes/</guid>
+        <guid>https://earth87human.github.io/blog/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Example Category</title>
-        <link>https://blog.earth87human.com/blog/categories/example-category/</link>
+        <link>https://earth87human.github.io/blog/categories/example-category/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.earth87human.com/blog/categories/example-category/</guid>
+        <guid>https://earth87human.github.io/blog/categories/example-category/</guid>
         <description></description>
         </item>
         
