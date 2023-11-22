@@ -1,6 +1,7 @@
 ---
 title: 如何在 Cisco Switch 裝置設定 line console 登入密碼
 date: 2023-02-01
+slug: setup-line-console-password
 tags: 
     - switch
 categories:

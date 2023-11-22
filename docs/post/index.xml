@@ -407,10 +407,10 @@ M                                  1000&lt;/p&gt;
         </item>
         <item>
         <title>如何在本機使用多個GitHub帳號進行開發</title>
-        <link>https://earth87human.github.io/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/</link>
+        <link>https://earth87human.github.io/blog/p/multiple-github-account/</link>
         <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://earth87human.github.io/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/</guid>
+        <guid>https://earth87human.github.io/blog/p/multiple-github-account/</guid>
         <description>&lt;h2 id=&#34;需求-&#34;&gt;需求 :&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;使用同一台主機登入兩個以上不同GitHub帳號像是(公司帳號 + 個人帳號)。&lt;/p&gt;
@@ -440,10 +440,10 @@ M                                  1000&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;# 一組為 personal(私鑰) / personal.pub(公鑰)
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-1-1.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-1-1.png&#34;
 	width=&#34;984&#34;
 	height=&#34;559&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-1-1_hub28aca7dc075444ab3cb9833f2831be3_95015_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-1-1_hub28aca7dc075444ab3cb9833f2831be3_95015_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-1-1_hub28aca7dc075444ab3cb9833f2831be3_95015_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/multiple-github-account/step-1-1_hub28aca7dc075444ab3cb9833f2831be3_95015_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;建立 company 公鑰/私鑰&#34;
@@ -454,10 +454,10 @@ M                                  1000&lt;/p&gt;
 		data-flex-basis=&#34;422px&#34;
 	
 &gt;
-&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-1-2.png&#34;
+&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-1-2.png&#34;
 	width=&#34;983&#34;
 	height=&#34;560&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-1-2_huf975000fdc588ea1a652dd11a89efc16_90818_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-1-2_huf975000fdc588ea1a652dd11a89efc16_90818_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-1-2_huf975000fdc588ea1a652dd11a89efc16_90818_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/multiple-github-account/step-1-2_huf975000fdc588ea1a652dd11a89efc16_90818_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;建立 personal 公鑰/私鑰&#34;
@@ -485,10 +485,10 @@ M                                  1000&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cat&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;personal&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;pub&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-1.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-1.png&#34;
 	width=&#34;2850&#34;
 	height=&#34;1546&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-1_hu84a91ba5f5bca6c089975e6ae35209b3_360731_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-1_hu84a91ba5f5bca6c089975e6ae35209b3_360731_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-1_hu84a91ba5f5bca6c089975e6ae35209b3_360731_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-1_hu84a91ba5f5bca6c089975e6ae35209b3_360731_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;GitHub &amp;gt; Settings &amp;gt; SSH and GPG keys&#34;
@@ -499,10 +499,10 @@ M                                  1000&lt;/p&gt;
 		data-flex-basis=&#34;442px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-2.png&#34;
 	width=&#34;2842&#34;
 	height=&#34;1170&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-2_hu712ba0a73c5459400068f5429919c54c_298970_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-2_hu712ba0a73c5459400068f5429919c54c_298970_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-2_hu712ba0a73c5459400068f5429919c54c_298970_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-2_hu712ba0a73c5459400068f5429919c54c_298970_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;New SSH key&#34;
@@ -513,10 +513,10 @@ M                                  1000&lt;/p&gt;
 		data-flex-basis=&#34;582px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-3.png&#34;
 	width=&#34;2840&#34;
 	height=&#34;1348&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-3_hu30252199932c85adc820ee2d34c2d9bd_279932_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-2-3_hu30252199932c85adc820ee2d34c2d9bd_279932_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-3_hu30252199932c85adc820ee2d34c2d9bd_279932_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/multiple-github-account/step-2-3_hu30252199932c85adc820ee2d34c2d9bd_279932_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;把 key 放進去&#34;
@@ -575,10 +575,10 @@ M                                  1000&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ssh&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;git&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;@&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;personal&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-4-1.png&#34;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-4-1.png&#34;
 	width=&#34;954&#34;
 	height=&#34;164&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-4-1_hu9fec12f75e74121116b1bd6f693f1bef_35034_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8%E6%9C%AC%E6%A9%9F%E4%BD%BF%E7%94%A8%E5%A4%9A%E5%80%8Bgithub%E5%B8%B3%E8%99%9F%E9%80%B2%E8%A1%8C%E9%96%8B%E7%99%BC/step-4-1_hu9fec12f75e74121116b1bd6f693f1bef_35034_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/multiple-github-account/step-4-1_hu9fec12f75e74121116b1bd6f693f1bef_35034_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/multiple-github-account/step-4-1_hu9fec12f75e74121116b1bd6f693f1bef_35034_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;若成功可看到此訊息&#34;
@@ -619,10 +619,10 @@ M                                  1000&lt;/p&gt;
         </item>
         <item>
         <title>如何在 Cisco Switch 裝置設定 line console 登入密碼</title>
-        <link>https://earth87human.github.io/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/</link>
+        <link>https://earth87human.github.io/blog/p/setup-line-console-password/</link>
         <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://earth87human.github.io/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/</guid>
+        <guid>https://earth87human.github.io/blog/p/setup-line-console-password/</guid>
         <description>&lt;h2 id=&#34;需求-&#34;&gt;需求 :&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;在 Cisco Switch 裝置設定 line console 登入密碼，防止不肖人士登入。&lt;/p&gt;
@@ -631,10 +631,10 @@ M                                  1000&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;開啟 Packet Tracer 建立模擬環境，如下圖&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/packet-tracer.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/packet-tracer.png&#34;
 	width=&#34;778&#34;
 	height=&#34;469&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/packet-tracer_hu992702a8657e2f0609362d1bfa717630_28347_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/packet-tracer_hu992702a8657e2f0609362d1bfa717630_28347_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/packet-tracer_hu992702a8657e2f0609362d1bfa717630_28347_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/packet-tracer_hu992702a8657e2f0609362d1bfa717630_28347_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;模擬環境&#34;
@@ -697,10 +697,10 @@ M                                  1000&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;驗證 Laptop 是否可以用密碼登入 Switch&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-1.png&#34;
 	width=&#34;1139&#34;
 	height=&#34;1014&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-1_hu251091dd554b249abc5d9d54f88f7986_371132_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-1_hu251091dd554b249abc5d9d54f88f7986_371132_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-1_hu251091dd554b249abc5d9d54f88f7986_371132_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-1_hu251091dd554b249abc5d9d54f88f7986_371132_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;選取 Terminal&#34;
@@ -711,10 +711,10 @@ M                                  1000&lt;/p&gt;
 		data-flex-basis=&#34;269px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-2.png&#34;
 	width=&#34;1161&#34;
 	height=&#34;410&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-2_hu6b1eff668b9fb929026a7fa06e4454ee_54610_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-2_hu6b1eff668b9fb929026a7fa06e4454ee_54610_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-2_hu6b1eff668b9fb929026a7fa06e4454ee_54610_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-2_hu6b1eff668b9fb929026a7fa06e4454ee_54610_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;按 OK&#34;
@@ -725,10 +725,10 @@ M                                  1000&lt;/p&gt;
 		data-flex-basis=&#34;679px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-3.png&#34;
 	width=&#34;837&#34;
 	height=&#34;655&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-3_hu3fd52218bc3e77a0a66927ac32d8ec55_53597_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-3_hu3fd52218bc3e77a0a66927ac32d8ec55_53597_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-3_hu3fd52218bc3e77a0a66927ac32d8ec55_53597_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-3_hu3fd52218bc3e77a0a66927ac32d8ec55_53597_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;輸入密碼&#34;
@@ -739,10 +739,10 @@ M                                  1000&lt;/p&gt;
 		data-flex-basis=&#34;306px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-4.png&#34;
 	width=&#34;826&#34;
 	height=&#34;642&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-4_hua1b2ea3df6d425f06ff45875b0cdd23b_43432_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-4_hua1b2ea3df6d425f06ff45875b0cdd23b_43432_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-4_hua1b2ea3df6d425f06ff45875b0cdd23b_43432_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-4_hua1b2ea3df6d425f06ff45875b0cdd23b_43432_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;成功連線&#34;

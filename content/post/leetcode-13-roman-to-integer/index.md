@@ -1,6 +1,7 @@
 ---
 title: Leetcode 13 Roman to Integer
 date: 2023-05-01
+slug: leetcode-13-roman-to-integer
 tags: 
     - easy
     - array

@@ -1,6 +1,7 @@
 ---
 title: Leetcode 1 Two Sum
 date: 2023-04-01
+slug: leetcode-1-two-sum
 tags: 
     - easy
     - array

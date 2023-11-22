@@ -8,10 +8,10 @@
         <language>en-us</language>
         <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/tags/switch/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>如何在 Cisco Switch 裝置設定 line console 登入密碼</title>
-        <link>https://earth87human.github.io/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/</link>
+        <link>https://earth87human.github.io/blog/p/setup-line-console-password/</link>
         <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://earth87human.github.io/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/</guid>
+        <guid>https://earth87human.github.io/blog/p/setup-line-console-password/</guid>
         <description>&lt;h2 id=&#34;需求-&#34;&gt;需求 :&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;在 Cisco Switch 裝置設定 line console 登入密碼，防止不肖人士登入。&lt;/p&gt;
@@ -20,10 +20,10 @@
 &lt;blockquote&gt;
 &lt;p&gt;開啟 Packet Tracer 建立模擬環境，如下圖&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/packet-tracer.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/packet-tracer.png&#34;
 	width=&#34;778&#34;
 	height=&#34;469&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/packet-tracer_hu992702a8657e2f0609362d1bfa717630_28347_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/packet-tracer_hu992702a8657e2f0609362d1bfa717630_28347_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/packet-tracer_hu992702a8657e2f0609362d1bfa717630_28347_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/packet-tracer_hu992702a8657e2f0609362d1bfa717630_28347_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;模擬環境&#34;
@@ -86,10 +86,10 @@
 &lt;blockquote&gt;
 &lt;p&gt;驗證 Laptop 是否可以用密碼登入 Switch&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-1.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-1.png&#34;
 	width=&#34;1139&#34;
 	height=&#34;1014&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-1_hu251091dd554b249abc5d9d54f88f7986_371132_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-1_hu251091dd554b249abc5d9d54f88f7986_371132_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-1_hu251091dd554b249abc5d9d54f88f7986_371132_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-1_hu251091dd554b249abc5d9d54f88f7986_371132_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;選取 Terminal&#34;
@@ -100,10 +100,10 @@
 		data-flex-basis=&#34;269px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-2.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-2.png&#34;
 	width=&#34;1161&#34;
 	height=&#34;410&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-2_hu6b1eff668b9fb929026a7fa06e4454ee_54610_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-2_hu6b1eff668b9fb929026a7fa06e4454ee_54610_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-2_hu6b1eff668b9fb929026a7fa06e4454ee_54610_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-2_hu6b1eff668b9fb929026a7fa06e4454ee_54610_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;按 OK&#34;
@@ -114,10 +114,10 @@
 		data-flex-basis=&#34;679px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-3.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-3.png&#34;
 	width=&#34;837&#34;
 	height=&#34;655&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-3_hu3fd52218bc3e77a0a66927ac32d8ec55_53597_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-3_hu3fd52218bc3e77a0a66927ac32d8ec55_53597_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-3_hu3fd52218bc3e77a0a66927ac32d8ec55_53597_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-3_hu3fd52218bc3e77a0a66927ac32d8ec55_53597_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;輸入密碼&#34;
@@ -128,10 +128,10 @@
 		data-flex-basis=&#34;306px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-4.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-4.png&#34;
 	width=&#34;826&#34;
 	height=&#34;642&#34;
-	srcset=&#34;https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-4_hua1b2ea3df6d425f06ff45875b0cdd23b_43432_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/%E5%A6%82%E4%BD%95%E5%9C%A8-cisco-switch-%E8%A3%9D%E7%BD%AE%E8%A8%AD%E5%AE%9A-line-console-%E7%99%BB%E5%85%A5%E5%AF%86%E7%A2%BC/step-4-4_hua1b2ea3df6d425f06ff45875b0cdd23b_43432_1024x0_resize_box_3.png 1024w&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-4_hua1b2ea3df6d425f06ff45875b0cdd23b_43432_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/setup-line-console-password/step-4-4_hua1b2ea3df6d425f06ff45875b0cdd23b_43432_1024x0_resize_box_3.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;成功連線&#34;

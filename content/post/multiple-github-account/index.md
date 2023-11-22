@@ -1,6 +1,7 @@
 ---
 title: 如何在本機使用多個GitHub帳號進行開發
 date: 2023-03-01
+slug: multiple-github-account
 tags: 
     - git
 categories:
