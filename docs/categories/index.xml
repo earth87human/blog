@@ -6,34 +6,10 @@
         <description>Recent content in Categories on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Backend</title>
-        <link>https://earth87human.github.io/blog/categories/backend/</link>
-        <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://earth87human.github.io/blog/categories/backend/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Guitars</title>
-        <link>https://earth87human.github.io/blog/categories/guitars/</link>
-        <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://earth87human.github.io/blog/categories/guitars/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Leetcode</title>
-        <link>https://earth87human.github.io/blog/categories/leetcode/</link>
-        <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://earth87human.github.io/blog/categories/leetcode/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Network</title>
         <link>https://earth87human.github.io/blog/categories/network/</link>
-        <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
         
         <guid>https://earth87human.github.io/blog/categories/network/</guid>
         <description></description>
@@ -41,7 +17,7 @@
         <item>
         <title>syntax</title>
         <link>https://earth87human.github.io/blog/categories/syntax/</link>
-        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 Sep 2000 00:00:00 +0000</pubDate>
         
         <guid>https://earth87human.github.io/blog/categories/syntax/</guid>
         <description></description>
@@ -49,7 +25,7 @@
         <item>
         <title>themes</title>
         <link>https://earth87human.github.io/blog/categories/themes/</link>
-        <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 Sep 2000 00:00:00 +0000</pubDate>
         
         <guid>https://earth87human.github.io/blog/categories/themes/</guid>
         <description></description>

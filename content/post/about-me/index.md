@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: Full stack php engineer
+description: Full stack PHP engineer
 slug: about-me
 date: 2023-01-01 00:00:00+0000
 image: cover.jpg
@@ -18,7 +18,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ### Skills
 
-| js                                                    | PHP                                                                                                         | DB                                                                                                                                | Nginx                                                 | Docker                                                          | K8s                                                                    | Cloud                                                                    |Network                                                                    | CI/CD                                                                    | Other                                                                    | 
+| JS                                                    | PHP                                                                                                         | DB                                                                                                                                | Nginx                                                 | Docker                                                          | K8s                                                                    | Cloud                                                                    |Network                                                                    | CI/CD                                                                    | Other                                                                    | 
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
 |jQuery React Async EventLoop Ajax| CI Laravel | MySQL Redis | Server Loadbalance TLS/SSL Proxy | dockerfile compose| namespace secret deploy service ingress role service-account| GCP AWS| CCNA switch router TCP/IP | drone | git Linux|
 
