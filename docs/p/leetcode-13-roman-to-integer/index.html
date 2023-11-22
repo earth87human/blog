@@ -1,30 +1,45 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Problem : Description Given an array of integers nums and an integer target , return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution , and you may not use the same element twice.
-You can return the answer in any order.
-Example 1 Input : nums = [2,7,11,15] , target = 9
-Output : [0,1]'>
-<title>Leetcode 1 Two Sum</title>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='Problem : Description Roman numerals are represented by seven different symbols : I , V , X , L , C , D and M.
+Symbol Value
+I 1
+V 5
+X 10
+L 50
+C 100
+D 500
+M 1000
+For example , 2 is written as II in Roman numeral , just two ones added together . 12 is written as XII , which is simply X &#43; II .'>
+<title>Leetcode 13 Roman to Integer</title>
 
-<link rel='canonical' href='https://earth87human.github.io/blog/p/leetcode-1-two-sum/'>
+<link rel='canonical' href='https://earth87human.github.io/blog/p/leetcode-13-roman-to-integer/'>
 
-<link rel="stylesheet" href="/blog/scss/style.min.abbd69b2908fdfcd5179898beaafd374514a86538d81639ddd2c58c06ae54e40.css"><meta property='og:title' content='Leetcode 1 Two Sum'>
-<meta property='og:description' content='Problem : Description Given an array of integers nums and an integer target , return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution , and you may not use the same element twice.
-You can return the answer in any order.
-Example 1 Input : nums = [2,7,11,15] , target = 9
-Output : [0,1]'>
-<meta property='og:url' content='https://earth87human.github.io/blog/p/leetcode-1-two-sum/'>
+<link rel="stylesheet" href="/blog/scss/style.min.abbd69b2908fdfcd5179898beaafd374514a86538d81639ddd2c58c06ae54e40.css"><meta property='og:title' content='Leetcode 13 Roman to Integer'>
+<meta property='og:description' content='Problem : Description Roman numerals are represented by seven different symbols : I , V , X , L , C , D and M.
+Symbol Value
+I 1
+V 5
+X 10
+L 50
+C 100
+D 500
+M 1000
+For example , 2 is written as II in Roman numeral , just two ones added together . 12 is written as XII , which is simply X &#43; II .'>
+<meta property='og:url' content='https://earth87human.github.io/blog/p/leetcode-13-roman-to-integer/'>
 <meta property='og:site_name' content='Hugo Theme Stack Starter'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='easy' /><meta property='article:tag' content='array' /><meta property='article:published_time' content='2023-04-01T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2023-04-01T00:00:00&#43;00:00'/>
-<meta name="twitter:title" content="Leetcode 1 Two Sum">
-<meta name="twitter:description" content="Problem : Description Given an array of integers nums and an integer target , return indices of the two numbers such that they add up to target.
-You may assume that each input would have exactly one solution , and you may not use the same element twice.
-You can return the answer in any order.
-Example 1 Input : nums = [2,7,11,15] , target = 9
-Output : [0,1]">
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='easy' /><meta property='article:tag' content='array' /><meta property='article:published_time' content='2023-05-01T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2023-05-01T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="Leetcode 13 Roman to Integer">
+<meta name="twitter:description" content="Problem : Description Roman numerals are represented by seven different symbols : I , V , X , L , C , D and M.
+Symbol Value
+I 1
+V 5
+X 10
+L 50
+C 100
+D 500
+M 1000
+For example , 2 is written as II in Roman numeral , just two ones added together . 12 is written as XII , which is simply X &#43; II .">
     <link rel="shortcut icon" href="/favicon.png" />
 
     </head>
@@ -268,10 +283,7 @@ Output : [0,1]">
         <li><a href="#constraints">Constraints</a></li>
       </ol>
     </li>
-    <li><a href="#solution-1--brute-force">Solution 1 : Brute Force</a></li>
-    <li><a href="#solution-2--two-pass-hash-table">Solution 2 : Two-pass Hash Table</a></li>
-    <li><a href="#solution-3--one-pass-hash-table">Solution 3 : One-pass Hash Table</a></li>
-    <li><a href="#大功告成">大功告成～</a></li>
+    <li><a href="#solution-1-">Solution 1 :</a></li>
   </ol>
 </nav>
         </div>
@@ -299,7 +311,7 @@ Output : [0,1]">
 
     <div class="article-title-wrapper">
         <h2 class="article-title">
-            <a href="/blog/p/leetcode-1-two-sum/">Leetcode 1 Two Sum</a>
+            <a href="/blog/p/leetcode-13-roman-to-integer/">Leetcode 13 Roman to Integer</a>
         </h2>
     
         
@@ -321,7 +333,7 @@ Output : [0,1]">
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">Apr 01, 2023</time>
+                <time class="article-time--published">May 01, 2023</time>
             </div>
         
 
@@ -354,79 +366,57 @@ Output : [0,1]">
     <h2 id="problem-">Problem :</h2>
 <h3 id="description">Description</h3>
 <blockquote>
-<p>Given an array of integers <kbd>nums</kbd> and an integer <kbd>target</kbd> , return indices of the two numbers such that they add up to <kbd>target</kbd>.</p>
+<p>Roman numerals are represented by seven different symbols : <kbd>I</kbd> , <kbd>V</kbd> , <kbd>X</kbd> , <kbd>L</kbd> , <kbd>C</kbd> , <kbd>D</kbd> and <kbd>M</kbd>.</p>
 </blockquote>
 <blockquote>
-<p>You may assume that each input would have <em><strong>exactly one solution</strong></em> , and you may not use the same element twice.</p>
+<p><strong>Symbol</strong>            <strong>Value</strong><br>
+I                                      1<br>
+V                                     5<br>
+X                                     10<br>
+L                                     50<br>
+C                                   100<br>
+D                                   500<br>
+M                                  1000</p>
 </blockquote>
 <blockquote>
-<p>You can return the answer in any order.</p>
+<p>For example , <kbd>2</kbd> is written as <kbd>II</kbd> in Roman numeral , just two ones added together . <kbd>12</kbd> is written as <kbd>XII</kbd> , which is simply <kbd>X + II</kbd> . The number <kbd>27</kbd> is written as <kbd>XXVII</kbd> , which is <kbd>XX + V + II</kbd> .</p>
+</blockquote>
+<blockquote>
+<p>Roman numerals are usually written largest to smallest from left to right . However, the numeral for four is not <kbd>IIII</kbd> . Instead , the number four is written as <kbd>IV</kbd> . Because the one is before the five we subtract it making four . The same principle applies to the number nine , which is written as <kbd>IX</kbd> . There are six instances where subtraction is used :</p>
+<ul>
+<li><kbd>I</kbd> can be placed before <kbd>V</kbd> (5) and <kbd>X</kbd> (10) to make 4 and 9.</li>
+<li><kbd>X</kbd> can be placed before <kbd>L</kbd> (50) and <kbd>C</kbd> (100) to make 40 and 90.</li>
+<li><kbd>C</kbd> can be placed before <kbd>D</kbd> (500) and <kbd>M</kbd> (1000) to make 400 and 900.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>Given a roman numeral , convert it to an integer .</p>
 </blockquote>
 <h3 id="example-1">Example 1</h3>
 <blockquote>
-<p><strong>Input</strong> : nums = [2,7,11,15] , target = 9<br>
-<strong>Output</strong> : [0,1]<br>
-<strong>Explanation</strong> : Because nums[0] + nums[1] == 9, we return [0, 1].</p>
+<p><strong>Input</strong> : s = &ldquo;III&rdquo;<br>
+<strong>Output</strong> : 3<br>
+<strong>Explanation</strong> : III = 3</p>
 </blockquote>
 <h3 id="example-2">Example 2</h3>
 <blockquote>
-<p><strong>Input</strong> : nums = [3,2,4] , target = 6<br>
-<strong>Output</strong> : [1,2]</p>
+<p><strong>Input</strong> : s = &ldquo;LVIII&rdquo; <br>
+<strong>Output</strong> : 58<br>
+<strong>Explanation</strong> : L = 50 , V= 5 , III = 3</p>
 </blockquote>
 <h3 id="example-3">Example 3</h3>
 <blockquote>
-<p><strong>Input</strong> : nums = [3,3] , target = 6<br>
-<strong>Output</strong> : [0,1]</p>
+<p><strong>Input</strong> : s = &ldquo;MCMXCIV&rdquo;<br>
+<strong>Output</strong> : 1994 <br>
+<strong>Explanation</strong> : M = 1000 , CM = 900 , XC = 90 and IV = 4</p>
 </blockquote>
 <h3 id="constraints">Constraints</h3>
 <ul>
-<li><kbd>2 &lt;= nums.length &lt;= 10<sup>4</sup></kbd></li>
-<li><kbd>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></kbd></li>
-<li><kbd>-10<sup>9</sup> &lt;= target &lt;= 10<sup>9</sup></kbd></li>
-<li><strong>Only one valid answer exists.</strong></li>
+<li><kbd>1 &lt;= s.length &lt;= 15</kbd></li>
+<li><kbd>s</kbd> contains only the characters <kbd>(&lsquo;I&rsquo;, &lsquo;V&rsquo;, &lsquo;X&rsquo;, &lsquo;L&rsquo;, &lsquo;C&rsquo;, &lsquo;D&rsquo;, &lsquo;M&rsquo;)</kbd>.</li>
+<li>It is <strong>guaranteed</strong> that <kbd>s</kbd> is a valid roman numeral in the range <kbd>[1, 3999]</kbd>.</li>
 </ul>
-<h2 id="solution-1--brute-force">Solution 1 : Brute Force</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-c++" data-lang="c++"><span class="line"><span class="cl"><span class="k">class</span> <span class="nc">Solution</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl"><span class="k">public</span><span class="o">:</span>
-</span></span><span class="line"><span class="cl">    <span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">twoSum</span><span class="p">(</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&amp;</span> <span class="n">nums</span><span class="p">,</span> <span class="kt">int</span> <span class="n">target</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">        <span class="kt">int</span> <span class="n">n</span> <span class="o">=</span> <span class="n">nums</span><span class="p">.</span><span class="n">size</span><span class="p">();</span>
-</span></span><span class="line"><span class="cl">        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span> <span class="o">-</span> <span class="mi">1</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">            <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">j</span> <span class="o">=</span> <span class="n">i</span> <span class="o">+</span> <span class="mi">1</span><span class="p">;</span> <span class="n">j</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="n">j</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">                <span class="k">if</span> <span class="p">(</span><span class="n">nums</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">+</span> <span class="n">nums</span><span class="p">[</span><span class="n">j</span><span class="p">]</span> <span class="o">==</span> <span class="n">target</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">                    <span class="k">return</span> <span class="p">{</span><span class="n">i</span><span class="p">,</span> <span class="n">j</span><span class="p">};</span>
-</span></span><span class="line"><span class="cl">                <span class="p">}</span>
-</span></span><span class="line"><span class="cl">            <span class="p">}</span>
-</span></span><span class="line"><span class="cl">        <span class="p">}</span>
-</span></span><span class="line"><span class="cl">        <span class="k">return</span> <span class="p">{};</span> <span class="c1">// No solution found
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="p">}</span>
-</span></span><span class="line"><span class="cl"><span class="p">};</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="cp"># 時間複雜度 Ｏ(n^2)
-</span></span></span><span class="line"><span class="cl"><span class="cp"># 空間複雜度 Ｏ(1)
-</span></span></span></code></pre></td></tr></table>
-</div>
-</div><h2 id="solution-2--two-pass-hash-table">Solution 2 : Two-pass Hash Table</h2>
+<h2 id="solution-1-">Solution 1 :</h2>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt"> 1
@@ -454,84 +444,44 @@ Output : [0,1]">
 </span><span class="lnt">23
 </span><span class="lnt">24
 </span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
 </span></code></pre></td>
 <td class="lntd">
 <pre tabindex="0" class="chroma"><code class="language-c++" data-lang="c++"><span class="line"><span class="cl"><span class="k">class</span> <span class="nc">Solution</span> <span class="p">{</span>
 </span></span><span class="line"><span class="cl"><span class="k">public</span><span class="o">:</span>
-</span></span><span class="line"><span class="cl">    <span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">twoSum</span><span class="p">(</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&amp;</span> <span class="n">nums</span><span class="p">,</span> <span class="kt">int</span> <span class="n">target</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">        <span class="n">unordered_map</span><span class="o">&lt;</span><span class="kt">int</span><span class="p">,</span> <span class="kt">int</span><span class="o">&gt;</span> <span class="n">numMap</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">        <span class="kt">int</span> <span class="n">n</span> <span class="o">=</span> <span class="n">nums</span><span class="p">.</span><span class="n">size</span><span class="p">();</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">        <span class="c1">// Build the hash table
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">            <span class="n">numMap</span><span class="p">[</span><span class="n">nums</span><span class="p">[</span><span class="n">i</span><span class="p">]]</span> <span class="o">=</span> <span class="n">i</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">        <span class="p">}</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">        <span class="c1">// Find the complement
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">            <span class="kt">int</span> <span class="n">complement</span> <span class="o">=</span> <span class="n">target</span> <span class="o">-</span> <span class="n">nums</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
-</span></span><span class="line"><span class="cl">            <span class="k">if</span> <span class="p">(</span><span class="n">numMap</span><span class="p">.</span><span class="n">count</span><span class="p">(</span><span class="n">complement</span><span class="p">)</span> <span class="o">&amp;&amp;</span> <span class="n">numMap</span><span class="p">[</span><span class="n">complement</span><span class="p">]</span> <span class="o">!=</span> <span class="n">i</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">                <span class="k">return</span> <span class="p">{</span><span class="n">i</span><span class="p">,</span> <span class="n">numMap</span><span class="p">[</span><span class="n">complement</span><span class="p">]};</span>
+</span></span><span class="line"><span class="cl">    <span class="kt">int</span> <span class="n">romanToInt</span><span class="p">(</span><span class="n">string</span> <span class="n">s</span><span class="p">)</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="n">unordered_map</span><span class="o">&lt;</span><span class="kt">char</span><span class="p">,</span> <span class="kt">int</span><span class="o">&gt;</span> <span class="n">m</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        
+</span></span><span class="line"><span class="cl">        <span class="n">m</span><span class="p">[</span><span class="sc">&#39;I&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="n">m</span><span class="p">[</span><span class="sc">&#39;V&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">5</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="n">m</span><span class="p">[</span><span class="sc">&#39;X&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">10</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="n">m</span><span class="p">[</span><span class="sc">&#39;L&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">50</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="n">m</span><span class="p">[</span><span class="sc">&#39;C&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">100</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="n">m</span><span class="p">[</span><span class="sc">&#39;D&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">500</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        <span class="n">m</span><span class="p">[</span><span class="sc">&#39;M&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1000</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        
+</span></span><span class="line"><span class="cl">        <span class="kt">int</span> <span class="n">ans</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">        
+</span></span><span class="line"><span class="cl">        <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">s</span><span class="p">.</span><span class="n">length</span><span class="p">();</span> <span class="n">i</span><span class="o">++</span><span class="p">){</span>
+</span></span><span class="line"><span class="cl">            <span class="k">if</span><span class="p">(</span><span class="n">m</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]]</span> <span class="o">&lt;</span> <span class="n">m</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="mi">1</span><span class="p">]]){</span>
+</span></span><span class="line"><span class="cl">                <span class="n">ans</span> <span class="o">-=</span> <span class="n">m</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]];</span>
+</span></span><span class="line"><span class="cl">            <span class="p">}</span>
+</span></span><span class="line"><span class="cl">            <span class="k">else</span><span class="p">{</span>
+</span></span><span class="line"><span class="cl">                <span class="n">ans</span> <span class="o">+=</span> <span class="n">m</span><span class="p">[</span><span class="n">s</span><span class="p">[</span><span class="n">i</span><span class="p">]];</span>
 </span></span><span class="line"><span class="cl">            <span class="p">}</span>
 </span></span><span class="line"><span class="cl">        <span class="p">}</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">        <span class="k">return</span> <span class="p">{};</span> <span class="c1">// No solution found
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="p">}</span>
+</span></span><span class="line"><span class="cl">        <span class="k">return</span> <span class="n">ans</span><span class="p">;</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
 </span></span><span class="line"><span class="cl"><span class="p">};</span>
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="cp"># 時間複雜度 Ｏ(n)
-</span></span></span><span class="line"><span class="cl"><span class="cp"># 空間複雜度 Ｏ(n)
+</span></span></span><span class="line"><span class="cl"><span class="cp"># 空間複雜度 Ｏ(1)
 </span></span></span></code></pre></td></tr></table>
 </div>
-</div><h2 id="solution-3--one-pass-hash-table">Solution 3 : One-pass Hash Table</h2>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
-</span><span class="lnt"> 2
-</span><span class="lnt"> 3
-</span><span class="lnt"> 4
-</span><span class="lnt"> 5
-</span><span class="lnt"> 6
-</span><span class="lnt"> 7
-</span><span class="lnt"> 8
-</span><span class="lnt"> 9
-</span><span class="lnt">10
-</span><span class="lnt">11
-</span><span class="lnt">12
-</span><span class="lnt">13
-</span><span class="lnt">14
-</span><span class="lnt">15
-</span><span class="lnt">16
-</span><span class="lnt">17
-</span><span class="lnt">18
-</span><span class="lnt">19
-</span><span class="lnt">20
-</span></code></pre></td>
-<td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-c++" data-lang="c++"><span class="line"><span class="cl"><span class="k">class</span> <span class="nc">Solution</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl"><span class="k">public</span><span class="o">:</span>
-</span></span><span class="line"><span class="cl">    <span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">twoSum</span><span class="p">(</span><span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;&amp;</span> <span class="n">nums</span><span class="p">,</span> <span class="kt">int</span> <span class="n">target</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">        <span class="n">unordered_map</span><span class="o">&lt;</span><span class="kt">int</span><span class="p">,</span> <span class="kt">int</span><span class="o">&gt;</span> <span class="n">numMap</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">        <span class="kt">int</span> <span class="n">n</span> <span class="o">=</span> <span class="n">nums</span><span class="p">.</span><span class="n">size</span><span class="p">();</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">        <span class="k">for</span> <span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">            <span class="kt">int</span> <span class="n">complement</span> <span class="o">=</span> <span class="n">target</span> <span class="o">-</span> <span class="n">nums</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
-</span></span><span class="line"><span class="cl">            <span class="k">if</span> <span class="p">(</span><span class="n">numMap</span><span class="p">.</span><span class="n">count</span><span class="p">(</span><span class="n">complement</span><span class="p">))</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">                <span class="k">return</span> <span class="p">{</span><span class="n">numMap</span><span class="p">[</span><span class="n">complement</span><span class="p">],</span> <span class="n">i</span><span class="p">};</span>
-</span></span><span class="line"><span class="cl">            <span class="p">}</span>
-</span></span><span class="line"><span class="cl">            <span class="n">numMap</span><span class="p">[</span><span class="n">nums</span><span class="p">[</span><span class="n">i</span><span class="p">]]</span> <span class="o">=</span> <span class="n">i</span><span class="p">;</span>
-</span></span><span class="line"><span class="cl">        <span class="p">}</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl">        <span class="k">return</span> <span class="p">{};</span> <span class="c1">// No solution found
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="p">}</span>
-</span></span><span class="line"><span class="cl"><span class="p">};</span>
-</span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="cp"># 時間複雜度 Ｏ(n)
-</span></span></span><span class="line"><span class="cl"><span class="cp"># 空間複雜度 Ｏ(n)
-</span></span></span></code></pre></td></tr></table>
 </div>
-</div><h2 id="大功告成">大功告成～</h2>
-
 </section>
 
 
@@ -563,12 +513,12 @@ Output : [0,1]">
             
                 
 <article class="">
-    <a href="/blog/p/leetcode-13-roman-to-integer/">
+    <a href="/blog/p/leetcode-1-two-sum/">
         
         
 
         <div class="article-details">
-            <h2 class="article-title">Leetcode 13 Roman to Integer</h2>
+            <h2 class="article-title">Leetcode 1 Two Sum</h2>
         </div>
     </a>
 </article>

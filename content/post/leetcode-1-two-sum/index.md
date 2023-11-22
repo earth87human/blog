@@ -13,7 +13,9 @@ categories:
 ### Description
 
 > Given an array of integers <kbd>nums</kbd> and an integer <kbd>target</kbd> , return indices of the two numbers such that they add up to <kbd>target</kbd>.  
+
 > You may assume that each input would have ***exactly one solution*** , and you may not use the same element twice.  
+
 > You can return the answer in any order.  
 
 ### Example 1
@@ -34,9 +36,9 @@ categories:
 
 ### Constraints
 
-* 2 <= nums.length <= 10<sup>4</sup>
-* -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
-* -10<sup>9</sup> <= target <= 10<sup>9</sup>
+* <kbd>2 <= nums.length <= 10<sup>4</sup></kbd>
+* <kbd>-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup></kbd>
+* <kbd>-10<sup>9</sup> <= target <= 10<sup>9</sup></kbd>
 * **Only one valid answer exists.**
 
 ## Solution 1 : Brute Force
