@@ -18,7 +18,7 @@ For more details, check out the [documentation](https://stack.jimmycai.com/writi
 
 ## YouTube video
 
-{{< youtube "0qwALOOvUik" >}}
+{{< youtube "DlpvRPB3JGo" >}}
 
 ## Generic video file
 

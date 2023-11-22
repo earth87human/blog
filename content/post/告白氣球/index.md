@@ -1,0 +1,13 @@
+---
+title: 吉他練習-告白氣球
+date: 2023-06-01
+slug: 告白氣球
+tags: 
+    - 吉他練習
+categories:
+    - Guitar
+---
+
+## YouTube video
+
+{{< youtube "DlpvRPB3JGo" >}}
