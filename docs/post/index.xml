@@ -6,7 +6,7 @@
         <description>Recent content in Posts on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
         <link>https://earth87human.github.io/blog/p/about-me/</link>
         <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -89,6 +89,24 @@
 &lt;p&gt;Check out my LinkedIn account :
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/earth87human&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>吉他練習-告白氣球</title>
+        <link>https://earth87human.github.io/blog/p/%E5%91%8A%E7%99%BD%E6%B0%A3%E7%90%83/</link>
+        <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://earth87human.github.io/blog/p/%E5%91%8A%E7%99%BD%E6%B0%A3%E7%90%83/</guid>
+        <description>&lt;h2 id=&#34;youtube-video&#34;&gt;YouTube video&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/DlpvRPB3JGo&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
         </item>
         <item>

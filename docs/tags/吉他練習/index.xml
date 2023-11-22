@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>吉他練習 on Hugo Theme Stack Starter</title>
+        <link>https://earth87human.github.io/blog/tags/%E5%90%89%E4%BB%96%E7%B7%B4%E7%BF%92/</link>
+        <description>Recent content in 吉他練習 on Hugo Theme Stack Starter</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/tags/%E5%90%89%E4%BB%96%E7%B7%B4%E7%BF%92/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>吉他練習-告白氣球</title>
+        <link>https://earth87human.github.io/blog/p/%E5%91%8A%E7%99%BD%E6%B0%A3%E7%90%83/</link>
+        <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://earth87human.github.io/blog/p/%E5%91%8A%E7%99%BD%E6%B0%A3%E7%90%83/</guid>
+        <description>&lt;h2 id=&#34;youtube-video&#34;&gt;YouTube video&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/DlpvRPB3JGo&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        
+    </channel>
+</rss>
