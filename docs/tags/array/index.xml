@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Leetcode on Hugo Theme Stack Starter</title>
-        <link>https://earth87human.github.io/blog/categories/leetcode/</link>
-        <description>Recent content in Leetcode on Hugo Theme Stack Starter</description>
+        <title>array on Hugo Theme Stack Starter</title>
+        <link>https://earth87human.github.io/blog/tags/array/</link>
+        <description>Recent content in array on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/categories/leetcode/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/tags/array/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Leetcode 1 Two Sum</title>
         <link>https://earth87human.github.io/blog/p/leetcode-1-two-sum/</link>
         <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>

@@ -20,7 +20,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 | JS                                                    | PHP                                                                                                         | DB                                                                                                                                | Nginx                                                 | Docker                                                          | K8s                                                                    | Cloud                                                                    |Network                                                                    | CI/CD                                                                    | Other                                                                    | 
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
-|jQuery React Async EventLoop Ajax| CI Laravel | MySQL Redis | Server Loadbalance TLS/SSL Proxy | dockerfile compose| namespace secret deploy service ingress role service-account| GCP AWS| CCNA switch router TCP/IP | drone | git Linux|
+|jQuery React Async EventLoop Ajax| CI Laravel | MySQL Redis | Server Loadbalance TLS/SSL Proxy | dockerfile compose| secret deploy service ingress role| GCP AWS| CCNA switch router TCP/IP | drone | git Linux|
 
 ### Certifications
 
@@ -35,7 +35,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
   * TOEIC 950
   * JLPT N1
 
-### External links
+### External Links
 
 Check out my GitHub account : 
 [GitHub](https://github.com/earth87human)
