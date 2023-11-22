@@ -12,16 +12,30 @@
         <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
         
         <guid>https://earth87human.github.io/blog/p/about-me/</guid>
-        <description>&lt;img src="https://earth87human.github.io/blog/p/about-me/cover.jpg" alt="Featured image of post About Me" /&gt;&lt;h2 id=&#34;i-am-a-full-stack-php-engineer&#34;&gt;I am a full stack php engineer.&lt;/h2&gt;
+        <description>&lt;img src="https://earth87human.github.io/blog/p/about-me/cover.jpg" alt="Featured image of post About Me" /&gt;&lt;h2 id=&#34;i-am-a-full-stack-php-engineer&#34;&gt;I am a full stack PHP engineer.&lt;/h2&gt;
+&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2020 - 2021
+&lt;ul&gt;
+&lt;li&gt;PHP engineer at 接案公司&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2021 - 2023
+&lt;ul&gt;
+&lt;li&gt;PHP engineer / SRE engineer at Gomaji 夠麻吉股份有限公司&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;js&lt;/th&gt;
-&lt;th&gt;php&lt;/th&gt;
-&lt;th&gt;Database&lt;/th&gt;
+&lt;th&gt;PHP&lt;/th&gt;
+&lt;th&gt;DB&lt;/th&gt;
 &lt;th&gt;Nginx&lt;/th&gt;
-&lt;th&gt;docker&lt;/th&gt;
-&lt;th&gt;k8s&lt;/th&gt;
+&lt;th&gt;Docker&lt;/th&gt;
+&lt;th&gt;K8s&lt;/th&gt;
 &lt;th&gt;Cloud&lt;/th&gt;
 &lt;th&gt;Network&lt;/th&gt;
 &lt;th&gt;CI/CD&lt;/th&gt;
@@ -43,21 +57,38 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;h3 id=&#34;certifications&#34;&gt;Certifications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud
+&lt;ul&gt;
+&lt;li&gt;GCP&lt;/li&gt;
+&lt;li&gt;AWS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Network
+&lt;ul&gt;
+&lt;li&gt;CCNA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kubernetes
+&lt;ul&gt;
+&lt;li&gt;CKA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Language
+&lt;ul&gt;
+&lt;li&gt;TOEIC 950&lt;/li&gt;
+&lt;li&gt;JLPT N1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;external-links&#34;&gt;External links&lt;/h3&gt;
 &lt;p&gt;Check out my GitHub account :
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/earth87human&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;earth87human&lt;/a&gt;&lt;/p&gt;
+    &gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Check out my LinkedIn account :
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/earth87human&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;earth87human&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-am-also-a-finger-style-guitarist&#34;&gt;I am also a finger style guitarist.&lt;/h2&gt;
-&lt;p&gt;Check out my youtube channel :
-&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCz4iYV7e3a8aEVq7ZUCrAtA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;earth87human&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Photo by &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/@pawel_czerwinski&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Pawel Czerwinski&lt;/a&gt; on &lt;a class=&#34;link&#34; href=&#34;https://unsplash.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+    &gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
