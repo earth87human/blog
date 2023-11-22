@@ -13,7 +13,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 * 2020 - 2021
   * PHP engineer at 接案公司
-* 2021 - 2023
+* 2022 - 2023
   * PHP engineer / SRE engineer at Gomaji 夠麻吉股份有限公司
 
 ### Skills
