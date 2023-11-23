@@ -6,7 +6,15 @@
         <description>Recent content in Categories on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Network</title>
+        <link>https://earth87human.github.io/blog/categories/network/</link>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://earth87human.github.io/blog/categories/network/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Guitar</title>
         <link>https://earth87human.github.io/blog/categories/guitar/</link>
         <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
@@ -28,14 +36,6 @@
         <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
         
         <guid>https://earth87human.github.io/blog/categories/backend/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Network</title>
-        <link>https://earth87human.github.io/blog/categories/network/</link>
-        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://earth87human.github.io/blog/categories/network/</guid>
         <description></description>
         </item>
         <item>
