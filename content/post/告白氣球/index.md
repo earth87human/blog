@@ -6,6 +6,7 @@ tags:
     - 吉他練習
 categories:
     - Guitar
+weight: 2
 ---
 
 ## YouTube video
