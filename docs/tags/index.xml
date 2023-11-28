@@ -6,20 +6,28 @@
         <description>Recent content in Tags on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Switch</title>
-        <link>https://earth87human.github.io/blog/tags/switch/</link>
-        <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Router</title>
+        <link>https://earth87human.github.io/blog/tags/router/</link>
+        <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://earth87human.github.io/blog/tags/switch/</guid>
+        <guid>https://earth87human.github.io/blog/tags/router/</guid>
         <description></description>
         </item>
         <item>
         <title>VLAN</title>
         <link>https://earth87human.github.io/blog/tags/vlan/</link>
-        <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
         
         <guid>https://earth87human.github.io/blog/tags/vlan/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Switch</title>
+        <link>https://earth87human.github.io/blog/tags/switch/</link>
+        <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://earth87human.github.io/blog/tags/switch/</guid>
         <description></description>
         </item>
         <item>

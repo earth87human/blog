@@ -6,7 +6,7 @@
         <description>Recent content in Posts on Hugo Theme Stack Starter</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://earth87human.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About Me</title>
         <link>https://earth87human.github.io/blog/p/about-me/</link>
         <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -89,6 +89,56 @@
 &lt;p&gt;Check out my LinkedIn account :
 &lt;a class=&#34;link&#34; href=&#34;https://github.com/earth87human&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>吉他練習-告白氣球</title>
+        <link>https://earth87human.github.io/blog/p/%E5%91%8A%E7%99%BD%E6%B0%A3%E7%90%83/</link>
+        <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://earth87human.github.io/blog/p/%E5%91%8A%E7%99%BD%E6%B0%A3%E7%90%83/</guid>
+        <description>&lt;h2 id=&#34;youtube-video&#34;&gt;YouTube video&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/DlpvRPB3JGo&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>如何在 Cisco 裝置設定 inter VLAN routing - 1 (簡介)</title>
+        <link>https://earth87human.github.io/blog/p/inter-vlan-routing-1/</link>
+        <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://earth87human.github.io/blog/p/inter-vlan-routing-1/</guid>
+        <description>&lt;h2 id=&#34;三種-inter-vlan-routing-的方法-&#34;&gt;三種 inter VLAN routing 的方法 :&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1 . 每個 VLAN 在 Switch / Router 上各自擁有獨立的物理街口，並設置成 Access Port。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;2 . Switch / Router 之間用 Trunk 連接 , 所有 VLAN 跑在同一條網線上。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;3 . 使用 Layer 3 Swtich , 設定 SVI 接口。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://earth87human.github.io/blog/blog/p/inter-vlan-routing-1/step-1-1.png&#34;
+	width=&#34;2876&#34;
+	height=&#34;1560&#34;
+	srcset=&#34;https://earth87human.github.io/blog/blog/p/inter-vlan-routing-1/step-1-1_hu50a8f298617f6e40eeb139887ee701fd_1357415_480x0_resize_box_3.png 480w, https://earth87human.github.io/blog/blog/p/inter-vlan-routing-1/step-1-1_hu50a8f298617f6e40eeb139887ee701fd_1357415_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;inter vlan routing&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;184&#34;
+		data-flex-basis=&#34;442px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -436,24 +486,6 @@
 		data-flex-basis=&#34;417px&#34;
 	
 &gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>吉他練習-告白氣球</title>
-        <link>https://earth87human.github.io/blog/p/%E5%91%8A%E7%99%BD%E6%B0%A3%E7%90%83/</link>
-        <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://earth87human.github.io/blog/p/%E5%91%8A%E7%99%BD%E6%B0%A3%E7%90%83/</guid>
-        <description>&lt;h2 id=&#34;youtube-video&#34;&gt;YouTube video&lt;/h2&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/DlpvRPB3JGo&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
 </description>
         </item>
         <item>
