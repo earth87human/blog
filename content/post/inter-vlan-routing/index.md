@@ -1,7 +1,7 @@
 ---
-title: 如何在 Cisco 裝置設定 inter VLAN routing - 1 (簡介)
+title: 如何在 Cisco 裝置設定 inter VLAN routing
 date: 2023-08-01
-slug: inter-vlan-routing-1
+slug: inter-vlan-routing
 tags: 
     - Router
     - VLAN
